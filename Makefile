@@ -8,3 +8,6 @@ oneweek:
 
 tenweeks:
 	date -d "+ 10 weeks"
+
+lab1:
+	awk -f lab1_example/sample.awk lab1_example/data.csv
