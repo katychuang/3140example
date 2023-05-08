@@ -1,0 +1,185 @@
+Showing items in row Line1 : ten, 10, 
+Showing items in row Line2 : nine, 9, 
+Showing items in row Line3 : eight, 8, 
+Showing items in row Line4 : seven, 7, 
+Showing items in row Line5 : six, 6, 
+Showing items in row Line6 : five, 5, 
+Showing items in row Line7 : four, 4, 
+Showing items in row Line8 : three, 3, 
+Showing items in row Line9 : two, 2, 
+Showing items in row Line10 : one, 1, 
+
+Comparing: (1) 10 and (2) 9
+Showing items in row 1: ten, 10, 
+Showing items in row 2: nine, 9, 
+swapped
+Showing items in row 1: nine, 9, 
+Showing items in row 2: ten, 10, 
+
+Comparing: (2) 10 and (3) 8
+Showing items in row 2: ten, 10, 
+Showing items in row 3: eight, 8, 
+swapped
+Showing items in row 2: eight, 8, 
+Showing items in row 3: ten, 10, 
+
+Comparing: (3) 10 and (4) 7
+Showing items in row 3: ten, 10, 
+Showing items in row 4: seven, 7, 
+swapped
+Showing items in row 3: seven, 7, 
+Showing items in row 4: ten, 10, 
+
+Comparing: (4) 10 and (5) 6
+Showing items in row 4: ten, 10, 
+Showing items in row 5: six, 6, 
+swapped
+Showing items in row 4: six, 6, 
+Showing items in row 5: ten, 10, 
+
+Comparing: (5) 10 and (6) 5
+Showing items in row 5: ten, 10, 
+Showing items in row 6: five, 5, 
+swapped
+Showing items in row 5: five, 5, 
+Showing items in row 6: ten, 10, 
+
+Comparing: (6) 10 and (7) 4
+Showing items in row 6: ten, 10, 
+Showing items in row 7: four, 4, 
+swapped
+Showing items in row 6: four, 4, 
+Showing items in row 7: ten, 10, 
+
+Comparing: (7) 10 and (8) 3
+Showing items in row 7: ten, 10, 
+Showing items in row 8: three, 3, 
+swapped
+Showing items in row 7: three, 3, 
+Showing items in row 8: ten, 10, 
+
+Comparing: (8) 10 and (9) 2
+Showing items in row 8: ten, 10, 
+Showing items in row 9: two, 2, 
+swapped
+Showing items in row 8: two, 2, 
+Showing items in row 9: ten, 10, 
+
+Comparing: (9) 10 and (10) 1
+Showing items in row 9: ten, 10, 
+Showing items in row 10: one, 1, 
+swapped
+Showing items in row 9: one, 1, 
+Showing items in row 10: ten, 10, 
+
+Comparing: (2) 8 and (3) 7
+Showing items in row 2: eight, 8, 
+Showing items in row 3: seven, 7, 
+swapped
+Showing items in row 2: seven, 7, 
+Showing items in row 3: eight, 8, 
+
+Comparing: (3) 8 and (4) 6
+Showing items in row 3: eight, 8, 
+Showing items in row 4: six, 6, 
+swapped
+Showing items in row 3: six, 6, 
+Showing items in row 4: eight, 8, 
+
+Comparing: (4) 8 and (5) 5
+Showing items in row 4: eight, 8, 
+Showing items in row 5: five, 5, 
+swapped
+Showing items in row 4: five, 5, 
+Showing items in row 5: eight, 8, 
+
+Comparing: (5) 8 and (6) 4
+Showing items in row 5: eight, 8, 
+Showing items in row 6: four, 4, 
+swapped
+Showing items in row 5: four, 4, 
+Showing items in row 6: eight, 8, 
+
+Comparing: (6) 8 and (7) 3
+Showing items in row 6: eight, 8, 
+Showing items in row 7: three, 3, 
+swapped
+Showing items in row 6: three, 3, 
+Showing items in row 7: eight, 8, 
+
+Comparing: (7) 8 and (8) 2
+Showing items in row 7: eight, 8, 
+Showing items in row 8: two, 2, 
+swapped
+Showing items in row 7: two, 2, 
+Showing items in row 8: eight, 8, 
+
+Comparing: (8) 8 and (9) 1
+Showing items in row 8: eight, 8, 
+Showing items in row 9: one, 1, 
+swapped
+Showing items in row 8: one, 1, 
+Showing items in row 9: eight, 8, 
+
+Comparing: (3) 6 and (4) 5
+Showing items in row 3: six, 6, 
+Showing items in row 4: five, 5, 
+swapped
+Showing items in row 3: five, 5, 
+Showing items in row 4: six, 6, 
+
+Comparing: (4) 6 and (5) 4
+Showing items in row 4: six, 6, 
+Showing items in row 5: four, 4, 
+swapped
+Showing items in row 4: four, 4, 
+Showing items in row 5: six, 6, 
+
+Comparing: (5) 6 and (6) 3
+Showing items in row 5: six, 6, 
+Showing items in row 6: three, 3, 
+swapped
+Showing items in row 5: three, 3, 
+Showing items in row 6: six, 6, 
+
+Comparing: (6) 6 and (7) 2
+Showing items in row 6: six, 6, 
+Showing items in row 7: two, 2, 
+swapped
+Showing items in row 6: two, 2, 
+Showing items in row 7: six, 6, 
+
+Comparing: (7) 6 and (8) 1
+Showing items in row 7: six, 6, 
+Showing items in row 8: one, 1, 
+swapped
+Showing items in row 7: one, 1, 
+Showing items in row 8: six, 6, 
+
+Comparing: (4) 4 and (5) 3
+Showing items in row 4: four, 4, 
+Showing items in row 5: three, 3, 
+swapped
+Showing items in row 4: three, 3, 
+Showing items in row 5: four, 4, 
+
+Comparing: (5) 4 and (6) 2
+Showing items in row 5: four, 4, 
+Showing items in row 6: two, 2, 
+swapped
+Showing items in row 5: two, 2, 
+Showing items in row 6: four, 4, 
+
+Comparing: (6) 4 and (7) 1
+Showing items in row 6: four, 4, 
+Showing items in row 7: one, 1, 
+swapped
+Showing items in row 6: one, 1, 
+Showing items in row 7: four, 4, 
+
+Comparing: (5) 2 and (6) 1
+Showing items in row 5: two, 2, 
+Showing items in row 6: one, 1, 
+swapped
+Showing items in row 5: one, 1, 
+Showing items in row 6: two, 2, 
